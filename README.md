@@ -4,22 +4,22 @@ Welcome to my **Reinforcement Learning (RL) Playground!** This repository is a p
 
 ## 📌 Implemented Algorithms
 
-### **1️⃣ Dynamic Programming & Classical Methods**
+### **Dynamic Programming & Classical Methods**
 - ✅ Value Iteration
 - ✅ Policy Iteration
 - ✅ Monte Carlo Methods
 - ✅ Temporal Difference (TD) Learning
 
-### **2️⃣ Tabular RL**
+### **Tabular RL**
 - ✅ Q-Learning
 - ✅ SARSA
-- 
-### **3️⃣ Deep Reinforcement Learning (DRL)**
+
+### **Deep Reinforcement Learning (DRL)**
 - ✅ Deep Q-Network (DQN)
 - ✅ REINFORCE (Monte Carlo Policy Gradient)
 
 
-### **5️⃣ Advanced RL (SOTA)**
+### ** Advanced RL (SOTA)**
 - 🔄 Proximal Policy Optimization (PPO) (planned)
 - 🔄 Deep Determinstic Policy Gradient (DDPG) (planned)
 - 🔄 Twin-Delayed Deep Determinstic Policy Gradient (TD3) (planned)
