@@ -19,7 +19,7 @@ Welcome to my **Reinforcement Learning (RL) Playground!** This repository is a p
 - ✅ REINFORCE (Monte Carlo Policy Gradient)
 
 
-### ** Advanced RL (SOTA)**
+### **Advanced RL (SOTA)**
 - 🔄 Proximal Policy Optimization (PPO) (planned)
 - 🔄 Deep Determinstic Policy Gradient (DDPG) (planned)
 - 🔄 Twin-Delayed Deep Determinstic Policy Gradient (TD3) (planned)
